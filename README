@@ -3,7 +3,7 @@ Follow the steps to download Visual Studio 2019 and run the codes!
 1. Download Visual Studio 2019 from the following line and follow the installation steps:
     https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16
     
-2. Put the following files into specified folders:
+2. Download the zip folder 'freeglut glew.zip' and put the following files into specified folders:
     i. All files in the include folder to be put in
         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\gl
     
